@@ -1,4 +1,4 @@
-![memes](https://github.com/Swfuse/devops-interview/blob/main/imgs/memes.jpg)
+![memes](https://github.com/Swfuse/devops-interview/blob/main/imgs/memes.jpg).
 
 <!-- TOC -->
 
